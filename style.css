@@ -35,3 +35,18 @@ body {
     color: rgb(0, 0, 0);
     font-size: 14px;
   }
+button {
+    background-color: var(--pr-color);
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 16px;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 7px;
+    font-family: arial;
+    font-weight: 600;
+    display: grid;
+    cursor: pointer;
+    position: relative;
+    text-decoration: none;
+}
